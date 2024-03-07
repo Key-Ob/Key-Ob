@@ -63,8 +63,4 @@
   <img src="https://github-profile-trophy.vercel.app?username=Key-Ob&" height="150" alt="trophy graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Key-Ob/Key-Ob/output/snake.svg" alt="Snake animation" />
-
-###
